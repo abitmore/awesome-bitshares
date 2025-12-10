@@ -109,8 +109,8 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
   * [PoolTool](https://t.me/pooltool_community_edition) - Dicussions about PoolTool.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
-  * [DEXBot](https://t.me/DEXBOTbts) - Original DEXBot Group
-  * [DEXBot2](https://t.me/DEXBOTbts) - New DEXBot2 Group.
+  * [DEXBot](https://t.me/DEXBOTbts) - Original DEXBot Group.
+  * [DEXBot2](https://t.me/DEXBot_2) - New DEXBot2 Group.
   * Committee - (invite only) For committee members.
   * Witnesses - (invite only) For block producers.
 * [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
