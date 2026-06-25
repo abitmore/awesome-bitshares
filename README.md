@@ -175,6 +175,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [Oases](https://github.com/huskcasaca/bitshares-oases-android) - Android app.
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - A partially implemented Bitshares web wallet coded with Vue2.
 * [Bitshares DEX Astro UI](https://github.com/BTS-CM/astro-ui) - A Bitshares DEX user interface implemented in React and Astro.
+* [Bitshares Prediction Market Asset UI](https://github.com/BTS-CM/pma) - An application dedicated to prediction market asset functionality on the Bitshares DEX.
 * [BitShares Wallet Browser Extension](https://github.com/pi314x/bitshares-wallet-browser-extension) - Browser extension for the BitShares blockchain - similar to MetaMask but for BitShares DEX. Supports Chrome, Brave, and Firefox.
 
 ### Hosted Wallets
@@ -194,7 +195,6 @@ your own research before using them.
 * [trade.xbts.io](https://trade.xbts.io) - New XBTS trading UI
 * [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
 * [SwapBTS.com](https://swapbts.com) - Lightweight web wallet with many features, for mobile use
-* [BTWTY.com](https://wallet.btwty.com/) - New reference wallet hosted by the Bit20 group.
 * [BEOS BTS Wallet](https://bitshareswallet.beos.world/)
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
@@ -290,7 +290,6 @@ do your own research!
 
 * [XBTS](https://xbts.io)
 * [ioBanker](https://iobanker.com)
-* [BTWTY GATEWAY](https://btwty.com/) - Bit20 community ran
 * [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org)
 * [PirateCash](https://piratecash.net/) - [PirateCash DEX](https://wallet.piratecash.net/)
@@ -315,7 +314,6 @@ do your own research!
 
 * [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
 * [ArtCASA Gallery](https://artcasa.gallery) 
-* [NFTEA Gallery](https://nftea.gallery)
 * [Alguien's NFT gallery](https://shamelesslyai.github.io/alguienAlli.github.io/)
 
 ### Services
